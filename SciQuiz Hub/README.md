@@ -23,8 +23,7 @@ This will install all of the necessary dependencies. Once the dependencies are i
 
 npm start
 
-The application will be available at http://localhost:8080.
-
+The application will be available at 
 ## Credits
 This project was created by Anushree K C.
 REFERENCES: Udemy 
